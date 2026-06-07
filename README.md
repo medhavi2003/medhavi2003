@@ -98,4 +98,4 @@ React Native (Expo) | Node.js | Express.js | MongoDB | TypeScript | JWT | Expo R
 
 ---
 
-⭐ “Building intelligent solutions through AI, analytics, and software engineering.”
+
