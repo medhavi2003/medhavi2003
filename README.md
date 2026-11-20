@@ -33,6 +33,8 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 🏅 Dean’s List Award – Year 1 Semester 2  
 📈 GPA: 3.75
+🏅 Dean’s List Award – Year 2 Semester 2  
+📈 GPA: 3.85
 
 ---
 
