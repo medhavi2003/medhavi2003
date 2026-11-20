@@ -43,7 +43,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 ### 📊 Supermarket Sales Analytics & Statistical Modelling
 
-📅 2026
+📅 July 2026 – November 2026
 
 **Technologies**
 
