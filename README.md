@@ -74,7 +74,7 @@ Python | Machine Learning | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 - Selected a Logistic Regression model using Perimeter and Major Axis Length features, achieving **91.21% test accuracy, 90.97% Macro F1-score, and 97.39% ROC-AUC** on an independent test dataset.
 - Designed a Quality Control Decision Support workflow to compare predicted and expected rice varieties, generating MATCH/MISMATCH recommendations for quality verification.
 
-🔗 **View Project:** https://github.com/medhavi2003/rice-variety-classification
+🔗 [View Project](https://github.com/medhavi2003/rice-variety-classification)
 
 ### 🧠 Smart Land Management System with AI-Based Price Prediction and Anomaly Detection
 
