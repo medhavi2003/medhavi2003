@@ -59,6 +59,23 @@ R | Statistical Modelling | Regression | Hypothesis Testing | Bayesian Analysis 
 
 🔗 [View Project](https://github.com/medhavi2003/Supermarket-Sales-Analytics-Statistical-Modelling)
 
+### 🌾 Rice Variety Classification & Quality Control Decision Support
+
+**Technologies**
+
+Python | Machine Learning | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SMOTE | PCA
+
+**Key Features**
+
+- Developed a Machine Learning classification system to identify Cammeo and Osmancik rice varieties using 3,810 grain observations and morphological features.
+- Performed exploratory data analysis, data preprocessing, outlier analysis, correlation analysis, and feature engineering to understand rice grain characteristics.
+- Developed and compared five classification algorithms: Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Decision Tree, and Random Forest using stratified cross-validation and hyperparameter tuning.
+- Applied feature selection, Principal Component Analysis (PCA), SMOTE, and feature-ablation experiments to investigate model performance and feature contributions.
+- Selected a Logistic Regression model using Perimeter and Major Axis Length features, achieving **91.21% test accuracy, 90.97% Macro F1-score, and 97.39% ROC-AUC** on an independent test dataset.
+- Designed a Quality Control Decision Support workflow to compare predicted and expected rice varieties, generating MATCH/MISMATCH recommendations for quality verification.
+
+🔗 **View Project:** https://github.com/medhavi2003/rice-variety-classification
+
 ### 🧠 Smart Land Management System with AI-Based Price Prediction and Anomaly Detection
 
 📅 Jan 2026 – May 2026
