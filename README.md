@@ -41,6 +41,24 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 ## 💼 Projects
 
+### 📊 Supermarket Sales Analytics & Statistical Modelling
+
+📅 2026
+
+**Technologies**
+
+R | Statistical Modelling | Regression | Hypothesis Testing | Bayesian Analysis | PCA | ARIMA | Data Visualization
+
+**Key Features**
+
+- Analysed 3 million+ historical supermarket sales records across 54 stores and 33 product families using R
+- Performed exploratory data analysis, data preprocessing, hypothesis testing, correlation analysis, and statistical visualization
+- Developed and compared Multiple Linear Regression, Ridge, LASSO, and Elastic Net models, achieving a test R² of 0.8495 with Multiple Linear Regression
+- Applied advanced statistical techniques including PCA, Naïve Bayes, Bayesian Regression (MCMC), and ARIMA time-series forecasting
+- Proposed a Supermarket Sales Analytics and Decision Support Dashboard to support sales monitoring, promotion evaluation, and demand forecasting
+
+🔗 [View Project](https://github.com/medhavi2003/Supermarket-Sales-Analytics-Statistical-Modelling)
+
 ### 🧠 Smart Land Management System with AI-Based Price Prediction and Anomaly Detection
 
 📅 Jan 2026 – May 2026
